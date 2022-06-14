@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anjalihedaoo18
+- 👋 Hi, I’m Anjali Hedaoo
 - 👀 I’m interested in learning something new stuffs
 - 🌱 I’m currently learning React Js and Java
 - 📫 How to reach me anjalihedaoo2002@gmail.com
